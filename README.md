@@ -1,4 +1,4 @@
-# CSC591 GRAPH DATA MINING Capstone
+# GRAPH DATA MINING
 
 ## Group members & Contributions
 |Name           |unity-ID   |contributions  |
